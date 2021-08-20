@@ -23,7 +23,7 @@ function quiz(question, answer) {
 const questions = [
     {
         question : 'Where does Iron Man live? ',
-        answer : 'Midtown USA'
+        answer : 'USA'
     },
     {
         question : 'What is special about Captain America? ',
@@ -36,7 +36,20 @@ const questions = [
     {
         question : 'Have you watched Loki yet? ',
         answer : 'Yes'
+    },
+    {
+      question : 'What is the name of the herb that gives Black Panther its divine powers? ',
+      answer : 'Heart Shaped Herb'
+    },
+    {
+      question : 'What is the human name of Hulk? ',
+      answer : 'Bruce Banner'
+    },
+    {
+      question : 'By what name is Tony company know by? ',
+      answer : 'Stark Industries'
     }
+
 ]
 
 // for loop
